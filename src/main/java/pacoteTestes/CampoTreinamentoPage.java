@@ -60,7 +60,7 @@ public class CampoTreinamentoPage {
     }
 
     public String obterSobreomeCadastro() {
-        return dsl.obterTexto("descSobrenome");
+        return dsl.obterTexto("descSobrenom");
     }
 
     public String obterSexoCadastro() {
